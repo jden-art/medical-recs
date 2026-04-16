@@ -1,8 +1,5 @@
 # Features and General Goal 
 
-**Here is the clean and updated goal:**
-
----
 
 ### **Project Title:** AarogyaScribe
 
